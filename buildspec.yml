@@ -5,5 +5,4 @@ phases:
       nodejs: 10
   build:
     commands:
-      - npm install
       - npm run build
